@@ -31,15 +31,13 @@ This project explores restaurant-related data from Zomato to analyze cuisine tre
   - Online delivery trends and table booking services
 - Visualized all findings with rich plots and charts
 
-> 📷 Optional: Add some images/screenshots of your visualizations here to make the README more engaging.
-
 ---
 
 ## 🚀 How to Run This
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/your-username/zomato-data-analysis.git
+   git clone https://github.com/rkvperpetual/zomato-data-analysis.git
    ```
 
 2. **Install dependencies**:
@@ -64,6 +62,6 @@ This project explores restaurant-related data from Zomato to analyze cuisine tre
 
 ## 👤 Author
 
-**[Your Name](https://github.com/your-username)**  
+**[YRaj Kumar Vishwakarma](https://github.com/rkvperpetual)**  
 Feel free to ⭐ this repo if you find it useful or want to explore more like this!
 
